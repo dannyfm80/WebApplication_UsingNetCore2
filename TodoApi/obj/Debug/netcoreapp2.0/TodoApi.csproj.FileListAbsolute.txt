@@ -1,0 +1,11 @@
+E:\CursoBootCamp\Rest\05\TodoApi\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.deps.json
+E:\CursoBootCamp\Rest\05\TodoApi\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.runtimeconfig.json
+E:\CursoBootCamp\Rest\05\TodoApi\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.runtimeconfig.dev.json
+E:\CursoBootCamp\Rest\05\TodoApi\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.dll
+E:\CursoBootCamp\Rest\05\TodoApi\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.pdb
+E:\CursoBootCamp\Rest\05\TodoApi\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.csprojResolveAssemblyReference.cache
+E:\CursoBootCamp\Rest\05\TodoApi\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.csproj.CoreCompileInputs.cache
+E:\CursoBootCamp\Rest\05\TodoApi\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.AssemblyInfoInputs.cache
+E:\CursoBootCamp\Rest\05\TodoApi\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.AssemblyInfo.cs
+E:\CursoBootCamp\Rest\05\TodoApi\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.dll
+E:\CursoBootCamp\Rest\05\TodoApi\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.pdb
